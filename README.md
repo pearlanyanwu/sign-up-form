@@ -47,4 +47,4 @@ submitButton.addEventListener("click", () => {
   verifyPassword();
   verifyEmail();
 })
-``
+```
