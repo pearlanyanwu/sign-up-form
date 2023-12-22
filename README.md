@@ -41,7 +41,7 @@ In this project, I learned how to validate name, password, and email inputs on a
 I also learned how to add color to a plain background image using blend-mode: multiply.
 ```css
 body {
-  background-color: hsl(0, 100%, 74%);
+  background-color: hsl(0, 100%, 74%); /* orange */
   background-image: url(images/bg-intro-desktop.png);
   background-blend-mode: multiply;
 }
