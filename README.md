@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Sign Up Form](sign-up-form.png)
+![Sign Up Form](sign_up_form.png)
 
 ## My process
 
